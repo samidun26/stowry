@@ -2,6 +2,10 @@
 
 A colorful, story-first comic adventure through Doodleburg. Play as Pip, an accidental crayon hero, and follow a crew of art-supply misfits as they try to save their town's colors.
 
+## Preview
+
+<img src="docs/images/color-caper-preview.jpg" alt="The Great Color Caper home screen, showing the colorful Doodleburg comic artwork and its three main characters" width="560">
+
 ## The adventure
 
 - Five chapters and roughly 3,000 words per playthrough (about 15–20 minutes, depending on reading pace).
