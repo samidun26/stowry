@@ -1,0 +1,10 @@
+{
+  "name": "stowry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/check-story.mjs",
+    "start": "python3 -m http.server 4187 --bind 127.0.0.1 --directory dist"
+  }
+}
